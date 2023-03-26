@@ -6,3 +6,4 @@ const auth = require("./auth");
 
 // auth function
 exports.auth = auth.auth;
+
